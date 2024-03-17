@@ -2,6 +2,7 @@
 
 
 ### TryHackMe Top 2%
+![TryHackMe](/images/ss1.png)
 ![TryHackMe](/images/ss.png)
 <be>
 
