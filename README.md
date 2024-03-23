@@ -1,13 +1,7 @@
 ### Hi there 👋
 
 
-### TryHackMe Top 2%
-![TryHackMe](/images/ss1.png)
-![TryHackMe](/images/ss.png)
-<be>
 
-### Certification
-![Certified Ethical Hacker](/images/CEH.png)
 
 ## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Tech Stack</b><br>
 
@@ -88,6 +82,14 @@
     <img alt="Replit" src="https://img.shields.io/badge/Replit%20-000000.svg?logo=replit&logoColor=white"/></a>
 </p>
 <br>
+
+### TryHackMe Top 2%
+![TryHackMe](/images/ss1.png)
+![TryHackMe](/images/ss.png)
+<be>
+
+### Certification
+![Certified Ethical Hacker](/images/CEH.png)
 
 
 
